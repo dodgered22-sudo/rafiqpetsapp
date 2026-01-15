@@ -1,7 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
 import { AppTab } from './types';
-import Layout from './components/Layout';
 import Home from './components/Home';
 import Store from './components/Store';
 import Medical from './components/Medical';
