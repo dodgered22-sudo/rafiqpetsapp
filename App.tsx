@@ -2,7 +2,6 @@
 import React, { useState, useEffect } from 'react';
 import { AppTab } from './types';
 import Home from './components/Home';
-import Store from './components/Store';
 import Medical from './components/Medical';
 import Services from './components/Services';
 import AIAssistant from './components/AIAssistant';
